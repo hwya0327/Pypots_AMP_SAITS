@@ -32,7 +32,7 @@ After adoption, overflow will not be happend.
 
 After download Pypots library, replace original files with above file.
 
-# file location
+# File location
 - base : C:\Users\anaconda3\Lib\site-packages\pypots\imputation
 - grad_scaler : C:\Users\anaconda3\Lib\site-packages\torch\cuda\amp
 - module : C:\Users\anaconda3\Lib\site-packages\pypots\imputation\transformer
